@@ -1,8 +1,14 @@
 # unity-tilemap-adventure
 A 2D sidescrolling platformer practice project using tilemaps in unity
 
+![screenshot](https://github.com/sinamhdn/unity-tilemap-adventure/assets/34884156/6c9800c6-d3fe-4986-97c0-2d40cf5315e6)
+
 ## Unity Version
 2022.3.2f1 LTS
+
+## Assets Used
+Super Platformer Assets by Foxfin fron Unity Assets Store
+**Desclaimer: this is not a commercial project and i use these assets only for practice purposes. to use them for a commercial project please pay for them on Unity Assets Store**
 
 ## Concepts Used
 - Using tilemaps game objects
