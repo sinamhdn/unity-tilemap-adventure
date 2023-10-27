@@ -47,7 +47,7 @@ Super Platformer Assets by Foxfin fron Unity Assets Store\
 - Creating UI in unity
 - Using a game object as session controller to store general logic of the game like player lives or score
 - Using singleton patterns to make an object ot get created only once
-- Using caroutines
+- Using coroutines
 - Play Audio at point so it wont stop when game object destroys
 - Making changes persistant using singleton pattern
 
