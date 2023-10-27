@@ -7,7 +7,7 @@ A 2D sidescrolling platformer practice project using tilemaps in unity
 2022.3.2f1 LTS
 
 ## Assets Used
-Super Platformer Assets by Foxfin fron Unity Assets Store\
+Super Platformer Assets by Foxfin fron Unity Assets Store\\
 **Desclaimer: this is not a commercial project and i use these assets only for practice purposes. to use them for a commercial project please pay for them on Unity Assets Store**
 
 ## Concepts Used
