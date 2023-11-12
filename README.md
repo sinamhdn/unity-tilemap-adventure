@@ -12,7 +12,7 @@ Super Platformer Assets by Foxfin fron Unity Assets Store\
 **Desclaimer: this is not a commercial project and i use these assets only for practice purposes. to use them for a commercial project please pay for them on Unity Assets Store**
 
 ## Concepts Used
-- Using tilemaps game objects
+- Tilemap game objects
 - Drawing tilemaps with tile palletes (delete with holding shift)
 - Importing 3rd party 2d assets to unity
 - Slicing sprites using sprite editor
@@ -33,7 +33,7 @@ Super Platformer Assets by Foxfin fron Unity Assets Store\
 - Freezing rotation on rigidbody component
 - Changing physics shape of sprites inside sprite editor
 - Using Input Manager to bind inputs
-- Chnging physics setting inside project settings > physics2d
+- Changing physics setting inside project settings > physics2d
 - Making collision of trigger type
 - Using cinemachine camera
 - Adding constaints to cinemachine camera
@@ -46,9 +46,9 @@ Super Platformer Assets by Foxfin fron Unity Assets Store\
 - Loading other scene from one scene
 - Creating UI in unity
 - Using a game object as session controller to store general logic of the game like player lives or score
-- Using singleton patterns to make an object ot get created only once
-- Using coroutines
-- Play Audio at point so it wont stop when game object destroys
+- Singleton patterns to make an object ot get created only once
+- Coroutines
+- Playing Audio at point so it wont stop when game object destroys
 - Making changes persistant using singleton pattern
 
 **NOTE: REMEMBER TO ADD SCENES TO BUILD SETTINGS IN THIS ORDER "StartMenu.unity" > "Level1.unity" > "Level2.unity" > "EndMenu.unity"**
