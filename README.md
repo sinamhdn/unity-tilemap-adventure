@@ -1,4 +1,4 @@
-# unity-tilemap-adventure
+# Tilemap Adventure
 A 2D sidescrolling platformer demo project using tilemaps in unity
 
 ![screenshot](https://github.com/sinamhdn/unity-tilemap-adventure/assets/34884156/6c9800c6-d3fe-4986-97c0-2d40cf5315e6)
